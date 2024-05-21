@@ -1,2 +1,8 @@
 # ScriptsBash
-repo for all my scripts bash
+
+Clean.sh 
+EmptyStateFolder.sh
+RetrieveDBName.sh
+ScaleDC.sh
+simulautscale.sh
+

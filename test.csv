@@ -1,0 +1,26 @@
+"Source
+Server Entity","Logical Name
+(server, pc, …)","Source
+IP address","Destination
+Server Entity","Logical Name
+(server, pc, …)","Destination
+IP address","Protocol Name
+(TCP, UDP, ICMP)","Service
+(HTTPS, SSH, PING)","Port Number
+(443, 22)","Authentication
+(Yes / No)","Flow encryption
+(Yes / No)","Classification
+information",Application Name,"Comment /
+Further information "
+FR,2s57-ocp01-egress-0117.aaaa.corp,clearFR,ACMM-PRO-SEC.eu.aaaa.corp,10.122.14.47,TCP,ORACLE,1521,Yes,Yes,Amber,2H10 ,GTSI Services - ACMM-PRO-SEC:
+FR,2s57-ocp01-egress-0117.aaaa.corp,10.122.52.116,FR,ACMM-PRO-SEC.eu.aaaa.corp,10.122.14.46,TCP,ORACLE,1521,Yes,Yes,Amber,2H10 ,GTSI Services - ACMM-PRO-SEC:
+FR,2s57-ocp01-egress-0117.aaaa.corp,10.122.52.116,FR,ACMM-PRO-SEC.eu.aaaa.corp,10.122.14.45,TCP,ORACLE,1521,Yes,Yes,Amber,2H10 ,GTSI Services - ACMM-PRO-SEC:
+FR,2s57-ocp01-egress-0117.aaaa.corp,10.122.52.116,FR,ACMM-VAL-PRIM.eu.aaaa.corp,10.122.13.52,TCP,ORACLE,1521,Yes,Yes,Amber,2H10 ,GTSI Services- ACMM-VAL-PRIM
+FR,2s57-ocp01-egress-0117.aaaa.corp,10.122.52.116,FR,ACMM-VAL-PRIM.eu.aaaa.corp,10.122.13.53,TCP,ORACLE,1521,Yes,Yes,Amber,2H10 ,GTSI Services- ACMM-VAL-PRIM
+FR,2s57-ocp01-egress-0117.aaaa.corp,10.122.52.116,FR,ACMM-VAL-PRIM.eu.aaaa.corp,10.122.13.54,TCP,ORACLE,1521,Yes,Yes,Amber,2H10 ,GTSI Services- ACMM-VAL-PRIM
+FR,2s57-ocp01-egress-0117.aaaa.corp,10.122.52.116,FR,ACMM-VAL-SEC.eu.aaaa.corp,10.122.14.54,TCP,ORACLE,1521,Yes,Yes,Amber,2H10 ,GTSI Services-ACMM-VAL-SEC
+FR,2s57-ocp01-egress-0117.aaaa.corp,10.122.52.116,FR,ACMM-VAL-SEC.eu.aaaa.corp,10.122.14.53,TCP,ORACLE,1521,Yes,Yes,Amber,2H10 ,GTSI Services-ACMM-VAL-SEC
+FR,2s57-ocp01-egress-0117.aaaa.corp,10.122.52.116,FR,ACMM-VAL-SEC.eu.aaaa.corp,10.122.14.52,TCP,ORACLE,1521,Yes,Yes,Amber,2H10 ,GTSI Services-ACMM-VAL-SEC
+FR,2s57-ocp01-egress-0117.aaaa.corp,10.122.52.116,FR,ACMM-PRO-PRIM.eu.aaaa.corp,10.122.13.45,TCP,ORACLE,1521,Yes,Yes,Amber,2H10 ,GTSI Services -ACMM-PRO-PRIM
+FR,2s57-ocp01-egress-0117.aaaa.corp,10.122.52.116,FR,ACMM-PRO-PRIM.eu.aaaa.corp,10.122.13.46,TCP,ORACLE,1521,Yes,Yes,Amber,2H10 ,GTSI Services -ACMM-PRO-PRIM
+FR,2s57-ocp01-egress-0117.aaaa.corp,10.122.52.116,FR,ACMM-PRO-PRIM.eu.aaaa.corp,10.122.13.47,TCP,ORACLE,1521,Yes,Yes,Amber,2H10 ,GTSI Services -ACMM-PRO-PRIM
